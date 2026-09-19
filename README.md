@@ -244,23 +244,6 @@ Visualização da árvore
      ↓
 Análise de Overfitting
 
-📁 Estrutura sugerida
-
-Uma possível organização para o projeto:
-
-projeto-machine-learning/
-│
-├── README.md
-├── projeto_ml.py
-├── requirements.txt
-└── imagens/
-    ├── distribuicao_classes.png
-    ├── alcool_intensidade.png
-    ├── matriz_correlacao.png
-    ├── matriz_confusao.png
-    ├── arvore_decisao.png
-    └── overfitting.png
-
 Conclusão
 O projeto demonstra, de forma prática, o processo de construção de um modelo de Machine Learning para classificação de vinhos, desde a análise inicial dos dados até a avaliação do modelo.
 
