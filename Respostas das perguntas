@@ -1,0 +1,16 @@
+1.Qual era o objetivo do projeto?
+  Ensinar a utilização de funções básicas de Machine learning e suas aplicações
+2.Qual dataset foi escolhido?
+  Foi escolhido o dataset wine 
+3.Quais cuidados foram necessários na preparação?
+  Converter o dataset em um dataframe e selecinar um modelo que fosse adequado
+4.Por que o modelo foi escolhido?
+  O modelo escolhido foi o DecisionTreeClassifier
+5.Por que essas métricas foram utilizadas?
+  Para nos revelar condições especificas do dataset e modelo 
+6.O resultado foi satisfatório? Justifique com números.
+  De certa maneira sim. A acurácia do modelo foi acima de 90%
+7.Existem sinais de overfitting ou underfitting?
+  Existem mas não muito severos  
+8.O que poderia ser melhorado?
+  Poderia ter sido feito comparação com outros modelos durante a execução 
